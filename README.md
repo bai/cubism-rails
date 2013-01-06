@@ -6,15 +6,15 @@ Cubism.js is a [D3](http://mbostock.github.com/d3/) plugin for visualizing time 
 
 Add the following to your gemfile:
 
-  gem 'cubism-rails'
+    gem 'cubism-rails'
 
 And then execute:
 
-  $ bundle
+    $ bundle
 
 Add the following directive to your JavaScript manifest file (application.js):
 
-  //= require cubism
+    //= require cubism
 
 ## Contributing
 
